@@ -1,2 +1,2 @@
 # hello-world
-getting back on the bike
+going through the tutorial for kicks
